@@ -14,3 +14,6 @@ Bank ChatBot
 
 # VEDIO
 https://www.youtube.com/watch?v=qrumuCrOZz4&feature=youtu.be
+# REFERANCE LINKS
+1 . https://www.tutorialsteacher.com/python/random-module</br>
+2 . https://www.haptik.ai/blog/chatbots-in-banking-examples-best-usecases-future/
