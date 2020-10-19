@@ -13,7 +13,7 @@ Bank ChatBot
 ![alt text](https://raw.githubusercontent.com/RohithSangati/ML_2021/main/ChatBot.jpeg)
 
 # VEDIO
-https://www.youtube.com/watch?v=qrumuCrOZz4&feature=youtu.be
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/qrumuCrOZz4/mqdefault.webp?time=1603106100000&sqp=CLTqtfwF&rs=AOn4CLDH9L8i0_93-SSm00AdhZxQu45OUw)](https://youtu.be/qrumuCrOZz4)
 # REFERANCE LINKS
 1 . https://www.tutorialsteacher.com/python/random-module</br>
 2 . https://www.haptik.ai/blog/chatbots-in-banking-examples-best-usecases-future/
